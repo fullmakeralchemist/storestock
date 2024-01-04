@@ -5,7 +5,7 @@ import pandas as pd
 # Display Title and Description
 st.title("Vendor Management Portal")
 
-st.image('ue.svg', caption='Sunrise by the mountains')
+st.image('ue.png', caption='Sunrise by the mountains')
 # Constants
 BUSINESS_TYPES = [
     "Manufacturer",
