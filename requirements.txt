@@ -1,6 +1,4 @@
 git+https://github.com/gatagat/lap@new-packaging
-numpy==1.26.0
-pandas==2.1.1
 streamlit==1.29.0
 st-gsheets-connection==0.0.3
 
